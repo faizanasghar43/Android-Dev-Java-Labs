@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">my_weather_app</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="_15">15</string>
+    <string name="u2103">℃</string>
+    <string name="condition">Condition</string>
+    <string name="description">Description</string>
+    <string name="loading_data_please_wait">Loading data. Please wait...</string>
+</resources>
