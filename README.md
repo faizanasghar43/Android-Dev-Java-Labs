@@ -25,7 +25,8 @@ The application will prompt you to enter a location. You can enter the name of a
 ## Contributing
 If you would like to contribute to this project, please submit a pull request.
 
-#App-Screenshot
+
+![App-Screenshot](https://github.com/faizanasghar43/Android-Java-Weather_App/blob/master/WhatsApp Image 2023-02-09 at 22.55.45.jpeg )
 
 
 
