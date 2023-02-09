@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
                                 throw new IllegalArgumentException("Add city");
 
                             }
+
                             URL u = new URL("https://api.openweathermap.org/data/2.5/weather?q="+input+",pk&appid=d6de83d2a1142dcf99b178276ea7ee75");
                             InputStream i = u.openStream();
                             BufferedReader b = new BufferedReader(new InputStreamReader(i));
