@@ -15,7 +15,7 @@ You need to have Java and a Java Development Environment such as Eclipse or Inte
 ### Installing
 1. Clone the repository to your local machine:
 
-     `git clone https://github.com/<username>/weather-app.git`
+     `git clone https://github.com/faizanasghar43/weather-app.git`
      
     
 
